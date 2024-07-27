@@ -2,9 +2,9 @@
   "expo": {
     "name": "Eiga",
     "slug": "Eiga",
+    "scheme": "Eiga",
     "version": "1.0.0",
     "orientation": "portrait",
-    "scheme": "Eiga",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
